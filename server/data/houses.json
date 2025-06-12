@@ -1,0 +1,18 @@
+{
+  "1749701108276": {
+    "id": "1749701108276",
+    "address": "Bangalore, Karnataka, India",
+    "ownerName": "big john",
+    "contactNumber": "725932253",
+    "email": "test@123.com",
+    "status": "active"
+  },
+  "1749701158256": {
+    "id": "1749701158256",
+    "address": "170 Bleecker St, New York, NY 10012, USA",
+    "ownerName": "little john",
+    "contactNumber": "7259322123",
+    "email": "test1@123.com",
+    "status": "active"
+  }
+}

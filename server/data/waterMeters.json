@@ -1,0 +1,24 @@
+{
+  "1749701134256": {
+    "id": "1749701134256",
+    "houseId": "1749701158256",
+    "meterNumber": "1",
+    "location": "Bangalore",
+    "installationDate": "2025-06-12",
+    "lastReading": 0,
+    "lastReadingDate": "2025-06-12",
+    "status": "active",
+    "threshold": 1000
+  },
+  "1749701175057": {
+    "id": "1749701175057",
+    "houseId": "1749701108276",
+    "meterNumber": "2",
+    "location": "Bangalore",
+    "installationDate": "2025-06-12",
+    "lastReading": 0,
+    "lastReadingDate": "2025-06-12",
+    "status": "active",
+    "threshold": 1000
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "1749701371260": {
+    "id": "1749701371260",
+    "meterId": "1749701134256",
+    "reading": 44,
+    "readingDate": "2025-06-12",
+    "consumption": 2,
+    "billAmount": 200,
+    "status": "pending"
+  }
+}
